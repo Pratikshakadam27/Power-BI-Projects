@@ -1,1 +1,1 @@
-# Power-BI-Projects
+Developed an interactive dashboard in Power BI to analyze and visualize insights from survey data collected from data professionals. Performed data cleaning, transformation, and modeling using Power Query and DAX to create meaningful relationships and calculated measures.
